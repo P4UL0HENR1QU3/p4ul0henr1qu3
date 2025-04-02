@@ -26,7 +26,7 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="paulohenriqueooliveira.2021@gmail.com">
+    <a href="mailto:paulohenriqueooliveira.2021@gmail.com">
         <img 
             alt="Gmail" 
             title="Conta do Gmail" 
