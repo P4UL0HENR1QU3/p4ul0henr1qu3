@@ -126,7 +126,7 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=P4UL0HENR1QU3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
