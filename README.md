@@ -4,6 +4,8 @@
 
 Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio e faço parte do Projeto Transfero Academy, em parceria com o SENAC-RJ, que tem como objetivo capacitar alunos para o mercado de tecnologia. Sou um entusiasta por tecnologia e compartilho meu aprendizado através do meu Linkednl, onde posto meus projetos, cursos e certificados que conquisto através dos meus estudos.
 
+📝Currículo: https://encurtador.com.br/Z7OKB
+
 <p align="left">
  <a href="http://www.linkedin.com/in/paulo-henrique-oliveira-b13abb349">
         <img 
@@ -33,10 +35,10 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-  <a href="https://drive.google.com/drive/folders/1cDw8sD2mTd_NHqeWeY4ki53gJymruZQF?usp=drive_link">
+  <!--<a href="https://drive.google.com/drive/folders/1cDw8sD2mTd_NHqeWeY4ki53gJymruZQF?usp=drive_link">
 <img style="margin: 5px; border-radius: 5px;" height="28.5;" width="90";" src="https://img.shields.io/badge/%20Currículo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
   </a>
-</p>
+</p>-->
 
   
 
