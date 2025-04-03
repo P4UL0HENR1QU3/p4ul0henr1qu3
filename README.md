@@ -116,10 +116,9 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
 <br/>
 <br/>
 
-<figure align="center">
- ### 📊 Estatísticas
 
-<p>
+ ### 📊 Estatísticas
+<p align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
