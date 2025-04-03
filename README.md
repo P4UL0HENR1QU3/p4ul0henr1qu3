@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas com conhecimento em Desenvolvimento Front-End`**
 
-Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio e faço parte do Projeto Transfero Academy, em parceria com o SENAC-RJ, que tem como objetivo capacitar alunos para o mercado de tecnologia. Sou um entusiasta por tecnologia e compartilho meu aprendizado através do meu Linkednl, onde posto meus projetos, cursos e certificados que conquisto através dos meus estudos.
+Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio e faço parte do Projeto Transfero Academy, em parceria com o SENAC-RJ, que tem como objetivo capacitar alunos para o mercado de tecnologia. Sou um entusiasta por tecnologia e compartilho meu aprendizado através do meu *Linkednl*, onde posto meus projetos, cursos e certificados que conquisto através dos meus estudos.
 
 📝Currículo: https://encurtador.com.br/Z7OKB
 
