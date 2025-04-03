@@ -39,7 +39,7 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
 <img style="margin: 5px; border-radius: 5px;" height="30;" width="90";" src="https://img.shields.io/badge/%20Currículo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
   </a>
 
-### 🤖 Linguagens e Tecnologias
+### **`🤖 Linguagens e Tecnologias`**
 
 <img 
     align="left" 
