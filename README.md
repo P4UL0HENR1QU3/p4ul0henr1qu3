@@ -116,6 +116,7 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
 <br/>
 <br/>
 
+<figure align="center">
  ### 📊 Estatísticas
 
 <p>
@@ -133,5 +134,5 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4UL0HENR1QU3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</figure>
 </p> 
