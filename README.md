@@ -71,11 +71,20 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Trello" 
+    title="Trello"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
 />
 
 <img 
