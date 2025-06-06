@@ -151,7 +151,7 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
   />
 
 
-  <!--</p>
+  </p>
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FP4UL0HENR1QU3&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" align="center" alt="visits">
 
 
@@ -161,7 +161,7 @@ Me chamo Paulo Henrique, tenho 20 anos e sou natural do Rio de Janeiro. Atualmen
 <br><br>
 
 <!-- Contador de visitas centralizado -->
-<p align="center">
+  <!--<p align="center">
   <img 
     src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FP4UL0HENR1QU3&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" 
     alt="visits"
